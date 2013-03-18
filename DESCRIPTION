@@ -1,0 +1,10 @@
+Package: ARRmData
+Version: 0.99.1
+Title: Example dataset for normalization of Illumina 450k Methylation
+        data
+Description: Raw Beta values from 36 samples across 3 groups from Illumina 450k methylation arrays
+Author: Jean-Philippe Fortin, Celia M.T. Greenwood, Aurelie Labbe
+Maintainer: Jean-Philippe Fortin <jfortin@jhsph.edu>
+License: Artistic-2.0
+Depends: R (>= 3.0.0)
+biocViews: ExperimentData
