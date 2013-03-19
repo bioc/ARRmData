@@ -7,4 +7,5 @@ Author: Jean-Philippe Fortin, Celia M.T. Greenwood, Aurelie Labbe
 Maintainer: Jean-Philippe Fortin <jfortin@jhsph.edu>
 License: Artistic-2.0
 Depends: R (>= 3.0.0)
-biocViews: ExperimentData
+biocViews: ExperimentData, HighThroughputSequencingData, IlluminaChip
+
