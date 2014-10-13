@@ -1,5 +1,5 @@
 Package: ARRmData
-Version: 1.1.1
+Version: 1.1.2
 Title: Example dataset for normalization of Illumina 450k Methylation
         data
 Description: Raw Beta values from 36 samples across 3 groups from Illumina 450k methylation arrays
